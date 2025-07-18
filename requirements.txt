@@ -1,0 +1,6 @@
+streamlit
+gdown
+joblib
+pillow
+matplotlib
+numpy
