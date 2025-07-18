@@ -7,7 +7,7 @@ from PIL import Image, ImageOps
 import matplotlib.pyplot as plt
 
 # Google Drive file ID for your Random Forest model
-file_id = '1kb9wKJL1knwqK7mvLPFLXPIAmbZhmse4'
+file_id = '1blaxMLnXvTg5ehiE646yxfAh4Ek6GKqp'
 url = f"https://drive.google.com/uc?id={file_id}"
 model_path = "random_forest_mnist.pkl"
 
